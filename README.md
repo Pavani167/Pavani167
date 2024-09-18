@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner]banner.png)
+![Banner](https://github.com/Pavani167/Pavani167/blob/main/banner.png)
 
 About Me
 Hello! I'm Pavani, a passionate web developer with a growing interest in cloud technologies. My expertise lies in Java programming, and I'm always eager to learn and apply new technologies to create efficient and user-friendly solutions.
