@@ -1,16 +1,28 @@
 ## Hi there 👋
+![Banner](https://github.com/username/repository/blob/main/path/to/image.png?raw=true)
 
-<!--
-**Pavani167/Pavani167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me
+Hello! I'm Pavani, a passionate web developer with a growing interest in cloud technologies. My expertise lies in Java programming, and I'm always eager to learn and apply new technologies to create efficient and user-friendly solutions.
+Skills
+📅Data Structures and Algorithms
+💻 Web Development
+☁️ Cloud Technologies
+☕ Java Programming
+🚀 SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Current Focus
+
+🌱 I'm currently expanding my knowledge in cloud computing
+👩🏻‍💻 Currently learning react
+👯 I'm looking to collaborate on web development projects
+🤔 I'm exploring new frameworks and tools to enhance my development skills
+
+Connect with Me
+
+📫 How to reach me: [pavanisingamaneni167@gmail.com]
+💼 LinkedIn: [https://www.linkedin.com/in/pavani-singamaneni-2baa77219/]
+
+Fun Fact: My coding skills are like coffee—strong and always needed."
+
