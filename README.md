@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner](https://github.com/username/repository/blob/main/path/to/image.png?raw=true)
+https://github.com/username/repository/blob/main/path/to/image.png?raw=true
 
 
 About Me
